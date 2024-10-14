@@ -1,0 +1,3 @@
+KIM,123456,500.0,mihleduze@gmail.com,402060763,12 juu,0755821563
+JAMES,0123456,442.36,tracysidogi@gmail.com,921310316,85 HUGO,0671831686
+Mpumezo,12345,10000.0,MpumezoMashologu142@gmail.com,790024592,MpumezoMashologu142@gmail.com,0784248749
